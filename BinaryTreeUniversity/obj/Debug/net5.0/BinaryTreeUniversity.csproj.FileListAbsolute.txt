@@ -1,0 +1,16 @@
+C:\Users\Esteban\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\bin\Debug\net5.0\BinaryTreeUniversity.exe
+C:\Users\Esteban\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\bin\Debug\net5.0\BinaryTreeUniversity.deps.json
+C:\Users\Esteban\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\bin\Debug\net5.0\BinaryTreeUniversity.runtimeconfig.json
+C:\Users\Esteban\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\bin\Debug\net5.0\BinaryTreeUniversity.runtimeconfig.dev.json
+C:\Users\Esteban\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\bin\Debug\net5.0\BinaryTreeUniversity.dll
+C:\Users\Esteban\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\bin\Debug\net5.0\ref\BinaryTreeUniversity.dll
+C:\Users\Esteban\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\bin\Debug\net5.0\BinaryTreeUniversity.pdb
+C:\Users\Esteban\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\obj\Debug\net5.0\BinaryTreeUniversity.csprojAssemblyReference.cache
+C:\Users\Esteban\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\obj\Debug\net5.0\BinaryTreeUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\obj\Debug\net5.0\BinaryTreeUniversity.AssemblyInfoInputs.cache
+C:\Users\Esteban\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\obj\Debug\net5.0\BinaryTreeUniversity.AssemblyInfo.cs
+C:\Users\Esteban\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\obj\Debug\net5.0\BinaryTreeUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\obj\Debug\net5.0\BinaryTreeUniversity.dll
+C:\Users\Esteban\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\obj\Debug\net5.0\ref\BinaryTreeUniversity.dll
+C:\Users\Esteban\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\obj\Debug\net5.0\BinaryTreeUniversity.pdb
+C:\Users\Esteban\source\repos\BinaryTreeUniversity\BinaryTreeUniversity\obj\Debug\net5.0\BinaryTreeUniversity.genruntimeconfig.cache
